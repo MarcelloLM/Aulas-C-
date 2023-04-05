@@ -1,0 +1,15 @@
+C:\Users\profteste\Desktop\AULA02B\JogoDado\bin\Debug\net6.0\JogoDado.exe
+C:\Users\profteste\Desktop\AULA02B\JogoDado\bin\Debug\net6.0\JogoDado.deps.json
+C:\Users\profteste\Desktop\AULA02B\JogoDado\bin\Debug\net6.0\JogoDado.runtimeconfig.json
+C:\Users\profteste\Desktop\AULA02B\JogoDado\bin\Debug\net6.0\JogoDado.dll
+C:\Users\profteste\Desktop\AULA02B\JogoDado\bin\Debug\net6.0\JogoDado.pdb
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.csproj.AssemblyReference.cache
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.AssemblyInfoInputs.cache
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.AssemblyInfo.cs
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.csproj.CoreCompileInputs.cache
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.dll
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\refint\JogoDado.dll
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.pdb
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\JogoDado.genruntimeconfig.cache
+C:\Users\profteste\Desktop\AULA02B\JogoDado\obj\Debug\net6.0\ref\JogoDado.dll
